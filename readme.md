@@ -162,6 +162,7 @@ Add insecure registry for minikube:
 
 在代码根目录中执行./stopDocker.sh
 
+1
 
 
 
