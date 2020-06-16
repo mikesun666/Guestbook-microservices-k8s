@@ -164,5 +164,5 @@ Add insecure registry for minikube:
 
 
 
-11111
+111111
 
